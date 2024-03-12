@@ -2,7 +2,7 @@
     box-sizing: border-box;
     font-size: 2vw;
 }
-div { //border: thin dotted red; }
+div { border: thin dotted red; }
 
 header {
     border: 1px solid green;
@@ -36,8 +36,3 @@ footer {
     border: 1px solid rgb(19, 0, 128);
 }
 
-section {
-}
-
-article {
-}
